@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jeffnganga
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning how to code and create projects in cybersecurity
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on bug bounty, and Pentest.
 - 📫 How to reach me on email mburujeffrey876@gmail.com or cell +254758799374
 
 <!---
